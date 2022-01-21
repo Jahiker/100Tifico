@@ -1,0 +1,7 @@
+# Single Page Application SPA
+-- Son aplicaciones en JS que permiten cargar el contenido de tu web una sola vez, no necesita recargarse
+-- Son faciles de debuggear
+-- Son faciles de crear porque solo tienen lo necesario para cargar
+-- No son muy compatibles con el SEO
+-- No son recomendables para grandes aplicaciones (Aplicación grande => más de 1000 usuarios y más de 50 secciones en la página).
+
